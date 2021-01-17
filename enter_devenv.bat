@@ -1,0 +1,1 @@
+docker run -it -v "%CD%":/application -w /application devkitpro/devkitarm /bin/sh
